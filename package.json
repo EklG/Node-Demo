@@ -1,0 +1,15 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "description": "First node project",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"echo \\ \"Error:no test specified\\\" && exit 1\""
+  },
+  "author": "Eklavya",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "nodemon": "^2.0.3"
+  }
+}
